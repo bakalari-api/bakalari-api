@@ -12,7 +12,7 @@ Nejprve je potřeba získat určité komponenty pro vypočítání tokenu. Tyto 
 ```
 Zajímá nás jen: typ, ikod a salt
 
-### Pozor !
+### Pozor!
 Pokud jméno neexistuje vrátí se toto XML
 ```xml
 <results>
