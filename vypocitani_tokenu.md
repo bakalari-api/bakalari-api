@@ -1,6 +1,6 @@
 # Vypočítaní tokenu
 ## Získání soli, kódu a typu
-Nejprve je potřeba získat určité komponenty pro vypočítání tokenu. Tyto komponenty získáme ze základní adresy popsané [v úvodu](https://github.com/JosefKuchar/bakalari-api/wiki) (např. `https://www.example.com/login.aspx`) a parametrem `gethx` se jménem: `https://www.example.com/login.aspx?gethx=JanNovak`. Vrátí se nám XML podobné tomuto:
+Nejprve je potřeba získat určité komponenty pro vypočítání tokenu. Tyto komponenty získáme ze základní adresy popsané [v úvodu](https://github.com/JosefKuchar/bakalari-api) (např. `https://www.example.com/login.aspx`) a parametrem `gethx` se jménem: `https://www.example.com/login.aspx?gethx=JanNovak`. Vrátí se nám XML podobné tomuto:
 ```xml
 <results>
     <res>01</res>
