@@ -2,9 +2,8 @@
 Úkoly
 
 Název modulu v URL: `ukoly` Příklad: `https://www.example.com/login.aspx?hx=token&pm=ukoly`
-## Další parametry
 ## XML
-//FIXME: K tomuto modulu nemám přístup, proto se může skutečné XML lišit
+//WAITING for the fix
 ### Příklad
 ```xml
 <?xml version="1.0" encoding="utf-8"?>

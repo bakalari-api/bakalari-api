@@ -2,7 +2,6 @@
 Akce institutu
 
 Název modulu v URL: `akce` Příklad: `https://www.example.com/login.aspx?hx=token&pm=akce`
-## Další parametry
 ## XML
 ### Příklad
 ```xml

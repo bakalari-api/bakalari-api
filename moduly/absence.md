@@ -2,7 +2,6 @@
 Počet promeškaných hodin na jednotlivých předmětech
 
 Název modulu v URL: `absence` Příklad: `https://www.example.com/login.aspx?hx=token&pm=absence`
-## Další parametry
 ## XML
 ### Příklad
 ```xml

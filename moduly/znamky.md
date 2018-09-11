@@ -2,7 +2,6 @@
 Známky ze všech předmětů
 
 Název modulu v URL: `znamky` Příklad: `https://www.example.com/login.aspx?hx=token&pm=znamky`
-## Další parametry
 ## XML
 ### Příklad
 ```xml

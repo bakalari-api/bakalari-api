@@ -2,7 +2,6 @@
 Reprezentace vah známek ve formě písmen
 
 Název modulu v URL: `predvidac` Příklad: `https://www.example.com/login.aspx?hx=token&pm=predvidac`
-## Další parametry
 ## XML
 ### Příklad
 ```xml

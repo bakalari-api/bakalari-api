@@ -2,7 +2,6 @@
 Suplování ve specifikovaném týdnu
 
 Název modulu v URL: `suplovani` Příklad: `https://www.example.com/login.aspx?hx=token&pm=suplovani`
-## Další parametry
 ## XML
 ### Příklad
 ```xml
