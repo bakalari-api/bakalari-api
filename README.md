@@ -14,6 +14,7 @@ Každý dotaz (vyjma získání tokenu) se skládá z [tokenu](vypocitani_tokenu
 * [pololetni](moduly/pololetni.md)
 * [predmety](moduly/predmety.md)
 * [predvidac](moduly/predvidac.md)
+* [prijate](moduly/prijate.md)
 * [rozvrh](moduly/rozvrh.md)
 * [suplovani](moduly/suplovani.md)
 * [ukoly](moduly/ukoly.md)
@@ -30,7 +31,6 @@ Každý dotaz (vyjma získání tokenu) se skládá z [tokenu](vypocitani_tokenu
 * komsend
 * nastenka
 * odeslane
-* prijate
 * priloha
 * rozvrhakt
 * rozvrhnext
