@@ -1,6 +1,6 @@
 # Modul login
 
-Informace o uživateli + seznam dostupných modulů
+Informace o uživateli + *částečný* seznam dostupných modulů
 
 Název modulu v URL: `login` Příklad: `https://www.example.com/login.aspx?hx=token&pm=login`
 ## XML
