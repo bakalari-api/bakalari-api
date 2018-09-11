@@ -8,6 +8,7 @@ Vše se odehrává na adrese institutu (školy). Pro zjednodušení budu použí
 Každý dotaz (vyjma získání tokenu) se skládá z [tokenu](vypocitani_tokenu.md) (`hx`) a názvu modulu (`pm`), případně dalších parametrů jako například data. Příklad: `https://www.example.com/login.aspx?hx=m_1dM0sdoUC3bKRkMdiyjc9IaOkOPyNvpq66zuwIu2eHUtYvkLwrUtHHPR6iNe1KOtA2HgSZtuoBWdido79VjQ==&pm=rozvrh`. Vrací XML, které je popsáno v následující sekci
 
 # Moduly
+* [all](moduly/all.md)
 * [absence](moduly/absence.md)
 * [akce](moduly/akce.md)
 * [login](moduly/login.md)
@@ -20,7 +21,6 @@ Každý dotaz (vyjma získání tokenu) se skládá z [tokenu](vypocitani_tokenu
 * [vyuka](moduly/vyuka.md)
 * [wlogin](moduly/wlogin.md)
 * [znamky](moduly/znamky.md)
-* all
 * classification
 * classificationMarks
 * home
