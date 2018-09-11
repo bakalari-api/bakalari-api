@@ -14,8 +14,6 @@ Server vrací XML v tomto pořadí:
 - `?pm=rozvrh&pmd=` + datum následujícího pondělí ve formátu YYYYMMDD
 
 Název modulu v URL: `all` Příklad: `https://www.example.com/login.aspx?hx=token&pm=all`
-## Další parametry
-
 ## XML
 ### Příklad
 ```xml
