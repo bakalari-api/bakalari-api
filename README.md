@@ -11,6 +11,7 @@ Každý dotaz (vyjma získání tokenu) se skládá z [tokenu](vypocitani_tokenu
 * [absence](moduly/absence.md)
 * [akce](moduly/akce.md)
 * [all](moduly/all.md)
+* [interfaces](moduly/interfaces.md)
 * [login](moduly/login.md)
 * [pololetni](moduly/pololetni.md)
 * [predmety](moduly/predmety.md)
@@ -25,7 +26,6 @@ Každý dotaz (vyjma získání tokenu) se skládá z [tokenu](vypocitani_tokenu
 * classification
 * classificationMarks
 * home
-* interfaces
 * komdel
 * komenslisty
 * komsend
