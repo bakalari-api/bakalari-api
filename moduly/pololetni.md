@@ -2,7 +2,6 @@
 Známky na vysvědčení
 
 Název modulu v URL: `pololetni` Příklad: `https://www.example.com/login.aspx?hx=token&pm=pololetni`
-## Další parametry
 ## XML
 ### Příklad
 ```xml

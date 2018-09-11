@@ -2,7 +2,6 @@
 Předměty
 
 Název modulu v URL: `predmety` Příklad: `https://www.example.com/login.aspx?hx=token&pm=predmety`
-## Další parametry
 ## XML
 ### Příklad
 ```xml

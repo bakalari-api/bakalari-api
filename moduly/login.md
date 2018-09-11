@@ -3,9 +3,6 @@
 Informace o uživateli + seznam dostupných modulů
 
 Název modulu v URL: `login` Příklad: `https://www.example.com/login.aspx?hx=token&pm=login`
-## Parametry
-### Povinné
-### Nepovinné
 ## XML
 ### Příklad
 ```xml
