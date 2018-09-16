@@ -1,6 +1,6 @@
 # Modul komenslisty
 
-Seznam všech učitelů *(může obsahovat i jména vedení školy apod.)* + některé informace z Komens - Odeslání zprávy
+Seznam všech učitelů, pracovníků školy apod., kterým jde poslat zpráva skrz Komens + některé informace z Komens - Odesání zprávy
 
 Název modulu v URL: `komenslisty` Příklad: `https://www.example.com/login.aspx?hx=token&pm=komenslisty`
 ## XML
