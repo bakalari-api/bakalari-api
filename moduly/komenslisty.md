@@ -27,7 +27,12 @@ Název modulu v URL: `komenslisty` Příklad: `https://www.example.com/login.asp
         <kod>UM</kod>
       </item>
     </komu>
-    <druhyzprav></druhyzprav>
+    <druhyzprav>
+      <druh>
+        <nazev>Aktualita na první stránku</nazev>
+        <zkratka>AKTUAL</zkratka>
+      </druh>
+    </druhyzprav>
     <tridy></tridy>
     <zaci></zaci>
     <ucitele>
