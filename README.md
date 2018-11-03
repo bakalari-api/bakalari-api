@@ -50,3 +50,6 @@ Každý dotaz (vyjma získání tokenu) se skládá z [tokenu](vypocitani_tokenu
 * ucitelrozvrhnext
 * ucitelrozvrhperm
 * ucitelsuplovani
+
+# Programy postavené na tomto API
+Token generator - https://github.com/mariansam/bakalari-token-generator
