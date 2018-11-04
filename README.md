@@ -52,4 +52,4 @@ Každý dotaz (vyjma získání tokenu) se skládá z [tokenu](vypocitani_tokenu
 * ucitelsuplovani
 
 # Programy postavené na tomto API
-Token generator - https://github.com/mariansam/bakalari-token-generator
+https://github.com/bakalari-api
