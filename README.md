@@ -7,6 +7,9 @@ Vše se odehrává na adrese institutu (školy). Pro zjednodušení budu použí
 # Dotazy
 Každý dotaz (vyjma získání tokenu) se skládá z [tokenu](vypocitani_tokenu.md) (`hx`) a názvu modulu (`pm`), případně dalších parametrů jako například data. Příklad: `https://www.example.com/login.aspx?hx=m_1dM0sdoUC3bKRkMdiyjc9IaOkOPyNvpq66zuwIu2eHUtYvkLwrUtHHPR6iNe1KOtA2HgSZtuoBWdido79VjQ==&pm=rozvrh`. Vrací XML, které je popsáno u jednotlivých modulů.
 
+# Programy postavené na tomto API
+Některé programy a nástroje pracující s tímto API najdete na https://github.com/bakalari-api.
+
 # Moduly
 * [absence](moduly/absence.md)
 * [akce](moduly/akce.md)
@@ -50,6 +53,3 @@ Každý dotaz (vyjma získání tokenu) se skládá z [tokenu](vypocitani_tokenu
 * ucitelrozvrhnext
 * ucitelrozvrhperm
 * ucitelsuplovani
-
-# Programy postavené na tomto API
-https://github.com/bakalari-api
