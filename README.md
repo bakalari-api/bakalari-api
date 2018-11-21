@@ -10,7 +10,7 @@ Každý dotaz (vyjma získání tokenu) se skládá z [tokenu](vypocitani_tokenu
 # Programy postavené na tomto API
 Co si na zítra přidat a co z tašky vyndat podle Bakalářů - https://github.com/kokolem/bakalari-next-day - [@kokolem](https://github.com/kokolem)
 Jednoduchá verze Bakalářů postavená na [Electronu](https://electronjs.org/) - https://github.com/ejdrien/bakalari-electron - [@ejdrien](https://github.com/ejdrien)  
-Některé programy a nástroje pracující s tímto API najdete na https://github.com/bakalari-api.
+Některé další programy a nástroje pracující s tímto API najdete na https://github.com/bakalari-api.
 
 # Moduly
 * [absence](moduly/absence.md)
