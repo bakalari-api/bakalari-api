@@ -8,8 +8,9 @@ Vše se odehrává na adrese institutu (školy). Pro zjednodušení budu použí
 Každý dotaz (vyjma získání tokenu) se skládá z [tokenu](vypocitani_tokenu.md) (`hx`) a názvu modulu (`pm`), případně dalších parametrů jako například data. Příklad: `https://www.example.com/login.aspx?hx=m_1dM0sdoUC3bKRkMdiyjc9IaOkOPyNvpq66zuwIu2eHUtYvkLwrUtHHPR6iNe1KOtA2HgSZtuoBWdido79VjQ==&pm=rozvrh`. Vrací XML, které je popsáno u jednotlivých modulů.
 
 # Programy postavené na tomto API
-Co si na zítra přidat a co z tašky vyndat podle Bakalářů - https://github.com/kokolem/bakalari-next-day - [@kokolem](https://github.com/kokolem)
-Jednoduchá verze Bakalářů postavená na [Electronu](https://electronjs.org/) - https://github.com/ejdrien/bakalari-electron - [@ejdrien](https://github.com/ejdrien)  
+* co si na zítra přidat a co z tašky vyndat podle Bakalářů: https://github.com/kokolem/bakalari-next-day
+* jednoduchá verze Bakalářů postavená na [Electronu](https://electronjs.org/): https://github.com/ejdrien/bakalari-electron
+
 Některé další programy a nástroje pracující s tímto API najdete na https://github.com/bakalari-api.
 
 # Moduly
