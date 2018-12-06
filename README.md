@@ -10,7 +10,7 @@ Každý dotaz (vyjma získání tokenu) se skládá z [tokenu](vypocitani_tokenu
 # Programy postavené na tomto API
 * co si na zítra přidat a co z tašky vyndat podle Bakalářů: https://github.com/kokolem/bakalari-next-day
 * jednoduchá verze Bakalářů postavená na [Electronu](https://electronjs.org/): https://github.com/ejdrien/bakalari-electron
-* alternativní mobilní aplikace pro Bakaláře na android: https://github.com/kokolem/bakalari-alt-app
+* alternativní aplikace Bakalářů pro operační systém Android: https://github.com/kokolem/bakalari-alt-app
 
 Některé další programy a nástroje pracující s tímto API najdete na https://github.com/bakalari-api.
 
