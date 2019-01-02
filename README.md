@@ -36,7 +36,7 @@ Některé další programy a nástroje pracující s tímto API najdete na https
 * classificationMarks
 * home
 * komdel
-* komsend
+* [komsend](moduly/komsend.md)
 * nastenka
 * odeslane
 * priloha
