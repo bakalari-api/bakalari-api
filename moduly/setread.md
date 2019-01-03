@@ -1,6 +1,6 @@
 #Modul setread
 
-Slouží k nastavení zprávy (ať už soukromé nebo zprávy na nástěnce) jako přečtená.
+Slouží k nastavení zprávy (ať už soukromé nebo zprávy na nástěnce) jako přečtené.
 
 GET `https://www.example.com/login.aspx?pm=setread&hx=token&pmd=id`
 
