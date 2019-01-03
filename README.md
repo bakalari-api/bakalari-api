@@ -7,6 +7,9 @@ Vše se odehrává na adrese institutu (školy). Pro zjednodušení budu použí
 # Dotazy
 Každý dotaz (vyjma získání tokenu) se skládá z [tokenu](vypocitani_tokenu.md) (`hx`) a názvu modulu (`pm`), případně dalších parametrů jako například data. Příklad: `https://www.example.com/login.aspx?hx=m_1dM0sdoUC3bKRkMdiyjc9IaOkOPyNvpq66zuwIu2eHUtYvkLwrUtHHPR6iNe1KOtA2HgSZtuoBWdido79VjQ==&pm=rozvrh`. Vrací XML, které je popsáno u jednotlivých modulů.
 
+# Notifikace
+V rámci aplikace Bakalářů fungují i [notifikace](moduly/notifikace.md).
+
 # Programy postavené na tomto API
 * co si na zítra přidat a co z tašky vyndat podle Bakalářů: https://github.com/kokolem/bakalari-next-day
 * jednoduchá verze Bakalářů postavená na [Electronu](https://electronjs.org/): https://github.com/ejdrien/bakalari-electron
@@ -21,6 +24,7 @@ Některé další programy a nástroje pracující s tímto API najdete na https
 * [all](moduly/all.md)
 * [interfaces](moduly/interfaces.md)
 * [komenslisty](moduly/komenslisty.md)
+* [komsend](moduly/komsend.md)
 * [login](moduly/login.md)
 * [pololetni](moduly/pololetni.md)
 * [predmety](moduly/predmety.md)
@@ -36,9 +40,7 @@ Některé další programy a nástroje pracující s tímto API najdete na https
 * classificationMarks
 * home
 * komdel
-* [komsend](moduly/komsend.md)
 * nastenka
-* [notifikace](moduly/notifikace.md)
 * odeslane
 * priloha
 * rozvrhakt
