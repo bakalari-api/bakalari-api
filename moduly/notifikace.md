@@ -1,7 +1,7 @@
 # Notifikace
 Zobrazí počet notifikací za určité časové období.
 
-Je potřeba zaslat POST request na `adresa.bakalaru.cz/if/2/overview/notifications`
+Je potřeba zaslat POST request na `https://www.example.com/if/2/overview/notifications`
 
 Uživatel se nepřihlašuje klasicky jako u ostatních endpointů, ale pomocí [Basic Authentication](https://en.wikipedia.org/wiki/Basic_access_authentication). Uživatelské jméno je `ANDR`, heslo je token, který je používán při přihlašování u ostatních endpointů.
 
