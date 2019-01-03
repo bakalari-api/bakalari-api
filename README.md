@@ -38,6 +38,7 @@ Některé další programy a nástroje pracující s tímto API najdete na https
 * komdel
 * [komsend](moduly/komsend.md)
 * nastenka
+* [notifikace](moduly/notifikace.md)
 * odeslane
 * priloha
 * rozvrhakt
