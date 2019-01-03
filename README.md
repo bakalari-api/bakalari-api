@@ -47,7 +47,7 @@ Některé další programy a nástroje pracující s tímto API najdete na https
 * rozvrhnext
 * rozvrhperm
 * setok
-* [setread](moduly/setread.md)
+* setread
 * timeline
 * tkday
 * tkedit
