@@ -27,6 +27,7 @@ Některé další programy a nástroje pracující s tímto API najdete na https
 * [predvidac](moduly/predvidac.md)
 * [prijate](moduly/prijate.md)
 * [rozvrh](moduly/rozvrh.md)
+* [setread](moduly/setread.md)
 * [suplovani](moduly/suplovani.md)
 * [ukoly](moduly/ukoly.md)
 * [vyuka](moduly/vyuka.md)
@@ -44,7 +45,6 @@ Některé další programy a nástroje pracující s tímto API najdete na https
 * rozvrhnext
 * rozvrhperm
 * setok
-* setread
 * timeline
 * tkday
 * tkedit
