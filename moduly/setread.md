@@ -1,4 +1,4 @@
-#Modul setread
+# Modul setread
 
 Slouží k nastavení zprávy (ať už soukromé nebo zprávy na nástěnce) jako přečtené.
 
