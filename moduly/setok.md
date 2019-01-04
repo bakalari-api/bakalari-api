@@ -1,4 +1,4 @@
-# Setok
+# SetOK
 
 Tento modul nastaví potvrzení o přečtení zprávy na přečteno.
 
