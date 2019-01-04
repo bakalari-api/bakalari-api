@@ -24,6 +24,7 @@ Některé další programy a nástroje pracující s tímto API najdete na https
 * [akce](moduly/akce.md)
 * [all](moduly/all.md)
 * [interfaces](moduly/interfaces.md)
+* [komdel](moduly/komdel.md)
 * [komenslisty](moduly/komenslisty.md)
 * [komsend](moduly/komsend.md)
 * [login](moduly/login.md)
@@ -43,7 +44,6 @@ Některé další programy a nástroje pracující s tímto API najdete na https
 * classification
 * classificationMarks
 * home
-* komdel
 * priloha
 * rozvrhakt
 * rozvrhnext
