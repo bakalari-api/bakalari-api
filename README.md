@@ -27,6 +27,7 @@ Některé další programy a nástroje pracující s tímto API najdete na https
 * [komenslisty](moduly/komenslisty.md)
 * [komsend](moduly/komsend.md)
 * [login](moduly/login.md)
+* [odeslane](moduly/odeslane.md)
 * [pololetni](moduly/pololetni.md)
 * [predmety](moduly/predmety.md)
 * [predvidac](moduly/predvidac.md)
@@ -42,7 +43,6 @@ Některé další programy a nástroje pracující s tímto API najdete na https
 * home
 * komdel
 * nastenka
-* odeslane
 * priloha
 * rozvrhakt
 * rozvrhnext
