@@ -15,6 +15,7 @@ V rámci aplikace Bakalářů fungují i [notifikace](moduly/notifikace.md).
 * jednoduchá verze Bakalářů postavená na [Electronu](https://electronjs.org/): https://github.com/ejdrien/bakalari-electron
 * alternativní aplikace Bakalářů pro operační systém Android: https://github.com/kokolem/bakalari-alt-app
 * Python knihovna: https://github.com/vakabus/pybakalib
+* Dart knihovna: https://github.com/soptikha2/bakalari ([pub](https://pub.dartlang.org/packages/bakalari))
 
 Některé další programy a nástroje pracující s tímto API najdete na https://github.com/bakalari-api.
 
@@ -27,11 +28,14 @@ Některé další programy a nástroje pracující s tímto API najdete na https
 * [komenslisty](moduly/komenslisty.md)
 * [komsend](moduly/komsend.md)
 * [login](moduly/login.md)
+* [nastenka](moduly/nastenka.md)
+* [odeslane](moduly/odeslane.md)
 * [pololetni](moduly/pololetni.md)
 * [predmety](moduly/predmety.md)
 * [predvidac](moduly/predvidac.md)
 * [prijate](moduly/prijate.md)
 * [rozvrh](moduly/rozvrh.md)
+* [setok](moduly/setok.md)
 * [suplovani](moduly/suplovani.md)
 * [ukoly](moduly/ukoly.md)
 * [vyuka](moduly/vyuka.md)
@@ -40,13 +44,10 @@ Některé další programy a nástroje pracující s tímto API najdete na https
 * classification
 * classificationMarks
 * home
-* nastenka
-* odeslane
 * priloha
 * rozvrhakt
 * rozvrhnext
 * rozvrhperm
-* setok
 * setread
 * timeline
 * tkday

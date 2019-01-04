@@ -26,7 +26,7 @@ Hodnota klíče `kkdy` značí, jestli je vyžadováno potvrzení přečtení. `
 Nepodařilo se získat kladnou odpověď serveru, pokud se vám ji podaří získat, tak [nám napište na GitHub](https://github.com/bakalari-api/bakalari-api/issues).
 
 Příklad chybové odpovědi:
-```
+```xml
 <?xml version="1.0" encoding="utf-8"?>
 <error>
   <code>105</code>
