@@ -3,7 +3,7 @@
 GET `https://www.example.com/login.aspx?pm=nastenka&hx=token`
 
 ## Odpověď
-```
+```xml
 <?xml version="1.0" encoding="utf-8"?>
 <results>
   <zpravy>
@@ -42,5 +42,7 @@ GET `https://www.example.com/login.aspx?pm=nastenka&hx=token`
     </zprava>
     -->
   </zpravy>
+
+
 </results>
 ```

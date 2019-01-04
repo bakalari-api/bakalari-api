@@ -6,7 +6,7 @@ GET `https://www.example.com/loginpaspx?pm=odeslane&hx=token`
 
 ## Odpověď
 
-```
+```xml
 <?xml version="1.0" encoding="utf-8"?>
 <results>
   <zpravy>
