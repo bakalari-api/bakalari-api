@@ -8,9 +8,17 @@ Kde `id` je ID mazané zprávy.
 
 ## Odpověď
 
+V případě úspěchu:
+```xml
+<?xml version="1.0" encoding="utf-8"?>
+<results>
+    <result>01</result>
+</results>
+```
+
 V případě chyby:
 
-```
+```xml
 <?xml version="1.0" encoding="utf-8"?>
 <error>
     <code>23</code>
