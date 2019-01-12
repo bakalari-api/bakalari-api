@@ -11,7 +11,7 @@ Vstup i výstup je tentokrát v JSONu, ne v XML.
 
 Vstup:
 
-```
+```json
 {
     "MessageType": "Overview.Notifications.Req",
     "classificationFrom": "20180101",
@@ -22,7 +22,7 @@ Vstup:
 ```
 
 Výstup:
-```
+```json
 {
     "ClassificationCount": 0,
     "HomeworksCount": 0,

@@ -12,9 +12,9 @@ V rámci aplikace Bakalářů fungují i [notifikace](moduly/notifikace.md).
 
 # Programy postavené na tomto API
 * co si na zítra přidat a co z tašky vyndat podle Bakalářů: https://github.com/kokolem/bakalari-next-day
-* jednoduchá verze Bakalářů postavená na [Electronu](https://electronjs.org/): https://github.com/ejdrien/bakalari-electron
 * alternativní aplikace Bakalářů pro operační systém Android: https://github.com/kokolem/bakalari-alt-app
 * Python knihovna: https://github.com/vakabus/pybakalib
+* Dart knihovna: https://github.com/soptikha2/bakalari ([pub](https://pub.dartlang.org/packages/bakalari))
 
 Některé další programy a nástroje pracující s tímto API najdete na https://github.com/bakalari-api.
 
@@ -23,15 +23,19 @@ Některé další programy a nástroje pracující s tímto API najdete na https
 * [akce](moduly/akce.md)
 * [all](moduly/all.md)
 * [interfaces](moduly/interfaces.md)
+* [komdel](moduly/komdel.md)
 * [komenslisty](moduly/komenslisty.md)
 * [komsend](moduly/komsend.md)
 * [login](moduly/login.md)
+* [nastenka](moduly/nastenka.md)
+* [odeslane](moduly/odeslane.md)
 * [pololetni](moduly/pololetni.md)
 * [predmety](moduly/predmety.md)
 * [predvidac](moduly/predvidac.md)
 * [prijate](moduly/prijate.md)
 * [rozvrh](moduly/rozvrh.md)
 * [setread](moduly/setread.md)
+* [setok](moduly/setok.md)
 * [suplovani](moduly/suplovani.md)
 * [ukoly](moduly/ukoly.md)
 * [vyuka](moduly/vyuka.md)
@@ -40,14 +44,10 @@ Některé další programy a nástroje pracující s tímto API najdete na https
 * classification
 * classificationMarks
 * home
-* komdel
-* nastenka
-* odeslane
 * priloha
 * rozvrhakt
 * rozvrhnext
 * rozvrhperm
-* setok
 * timeline
 * tkday
 * tkedit
