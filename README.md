@@ -15,6 +15,7 @@ V rámci aplikace Bakalářů fungují i [notifikace](moduly/notifikace.md).
 * alternativní aplikace Bakalářů pro operační systém Android: https://github.com/kokolem/bakalari-alt-app
 * Python knihovna: https://github.com/vakabus/pybakalib
 * Dart knihovna: https://github.com/soptikha2/bakalari ([pub](https://pub.dartlang.org/packages/bakalari))
+* Bakalab - neoficiální Bakaláři klient: https://github.com/bakalaborg/bakalab ([Oficiální web](bakalab.org))
 
 Některé další programy a nástroje pracující s tímto API najdete na https://github.com/bakalari-api.
 
