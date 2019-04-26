@@ -12,7 +12,7 @@ V rámci aplikace Bakalářů fungují i [notifikace](moduly/notifikace.md).
 
 # Programy postavené na tomto API
 * co si na zítra přidat a co z tašky vyndat podle Bakalářů: https://github.com/kokolem/bakalari-next-day
-* alternativní aplikace Bakalářů pro operační systém Android: https://github.com/kokolem/bakalari-alt-app
+* Bakalarium - neoficiální klient pro Android https://github.com/kokolem/Bakalarium
 * Python knihovna: https://github.com/vakabus/pybakalib
 * Dart knihovna: https://github.com/soptikha2/bakalari ([pub](https://pub.dartlang.org/packages/bakalari))
 * Bakalab – neoficiální klient aplikace Bakaláři: [www.bakalab.org](https://www.bakalab.org)
