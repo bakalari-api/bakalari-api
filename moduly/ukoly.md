@@ -2,7 +2,6 @@
 Úkoly
 
 Název modulu v URL: `ukoly` Příklad: `https://www.example.com/login.aspx?hx=token&pm=ukoly`
-## XML
 ### Příklad
 ```xml
 <?xml version="1.0" encoding="utf-8"?>
@@ -28,7 +27,13 @@ Název modulu v URL: `ukoly` Příklad: `https://www.example.com/login.aspx?hx=t
       <status>aktivni</status>
       <typ>20</typ>
       <id>SW15SJHIEQ</id>
-      <attachments/>
+      <attachments>
+        <attachment>
+          <id>UT03FAAAAA</id>
+          <name>obrazek.png</name>
+          <type>image/png</type>
+        </attachment>
+      </attachments>
     </ukol>
   </ukoly>
   <result>01</result>
