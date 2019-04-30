@@ -1,4 +1,4 @@
-# Modul ukoly
+# Modul priloha
 Příloha
 
 Název modulu v URL: `priloha`
