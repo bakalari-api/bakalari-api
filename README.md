@@ -42,7 +42,7 @@ Některé další programy a nástroje pracující s tímto API najdete na https
 * [vyuka](moduly/vyuka.md)
 * [wlogin](moduly/wlogin.md)
 * [znamky](moduly/znamky.md)
-* [priloha] (moduly/priloha.md)
+* [priloha](moduly/priloha.md)
 * classification
 * classificationMarks
 * home
