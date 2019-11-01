@@ -17,6 +17,7 @@ V rámci aplikace Bakalářů fungují i [notifikace](moduly/notifikace.md).
 * Dart knihovna: https://github.com/soptikha2/bakalari ([pub](https://pub.dartlang.org/packages/bakalari))
 * Bakalab – neoficiální klient aplikace Bakaláři: [www.bakalab.org](https://www.bakalab.org)
 * Průměr Známek - aplikace pro výpočet váženého průměru s možností předvídání známek (funkční offline): [Průměr Známek na Google Play](https://play.google.com/store/apps/details?id=cz.fely.weightedaverage)
+* Lepší Rozvrh - rychlejší klient pro rozvrh (funguje i offline). [GitHub](https://github.com/vitSkalicky/lepsi-rozvrh/)
 
 Některé další programy a nástroje pracující s tímto API najdete na https://github.com/bakalari-api.
 
