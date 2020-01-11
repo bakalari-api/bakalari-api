@@ -1,5 +1,7 @@
 # Modul rozvrh
-Rozvrh
+Rozvrh žáka
+
+Učitelé se z něj nedoví název třídy, proto musejí použít modul [ucitelrozvrh](ucitelrozvrh.md).
 
 Název modulu v URL: `rozvrh` Příklad: `https://www.example.com/login.aspx?hx=token&pm=rozvrh`
 ## Další parametry
