@@ -39,6 +39,7 @@ Některé další programy a nástroje pracující s tímto API najdete na https
 * [prijate](moduly/prijate.md)
 * [priloha](moduly/priloha.md)
 * [rozvrh](moduly/rozvrh.md)
+* [ucitelrozvrh](moduly/ucitelrozvrh.md)
 * [setok](moduly/setok.md)
 * [setread](moduly/setread.md)
 * [suplovani](moduly/suplovani.md)
@@ -60,7 +61,6 @@ Některé další programy a nástroje pracující s tímto API najdete na https
 * ucitelakce
 * ucitelall
 * ucitelpredmety
-* ucitelrozvrh
 * ucitelrozvrhakt
 * ucitelrozvrhnext
 * ucitelrozvrhperm
