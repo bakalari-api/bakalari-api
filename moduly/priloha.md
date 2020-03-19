@@ -8,3 +8,5 @@ Pro získání přílohy je potřeba poslat ID požadovaného souboru v parametr
 Příklad: `https://www.example.com/login.aspx?hx=token&pm=priloha&fileId=idPrilohy`
 
 ID lze získat z modulu `ukoly`. Je potřeba ID přílohy, ne úkolu!
+
+Pokud je v ID přílohy mezera, je potřeba ji nahradit řetězcem `%20%20%20`.
