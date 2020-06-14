@@ -19,6 +19,7 @@ V rámci aplikace Bakalářů fungují i [notifikace](moduly/notifikace.md).
 * Průměr Známek - aplikace pro výpočet váženého průměru s možností předvídání známek (funkční offline): [Průměr Známek na Google Play](https://play.google.com/store/apps/details?id=cz.fely.weightedaverage)
 * Lepší Rozvrh - rychlejší klient pro rozvrh (funguje i offline). [Google Play](https://play.google.com/store/apps/details?id=cz.vitskalicky.lepsirozvrh&utm_source=bakalari-api), [GitHub](https://github.com/vitSkalicky/lepsi-rozvrh/)
 * Bakaláři klient - Klient Bakaláři pro Windows: https://github.com/Nkaskaj/BakalariClient
+* Online token generator - jednoduchý generátor tokenů pro API 1 i API 3 https://ondrovywebovky.cz/token/
 
 Některé další programy a nástroje pracující s tímto API najdete na https://github.com/bakalari-api.
 
